@@ -1,0 +1,4 @@
+.env
+status
+.DS_Store
+node_modules
